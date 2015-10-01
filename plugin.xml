@@ -5,6 +5,7 @@
       version="0.1.0">
 
     <name>Back As Home</name>
+    <description>Back As Home</description>
     <keywords>ionic, back, home, cordova, android</keywords>
 
     <js-module src="www/ionicHome.js" name="ionicHome">
